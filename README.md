@@ -53,9 +53,10 @@ File Upload:** Tests multipart form data with image uploads
 **End-to-End Workflow: **Complete e-commerce transaction flow
 
 **Project Structure
-src/main/java/
-├── ExternalReports/OAuth/     # Test classes
-└── POJO/                      # Data models**
+
+
+<img width="291" height="117" alt="image" src="https://github.com/user-attachments/assets/98275929-fe59-4fc2-9715-9f7de7d933f9" />
+
 
 **Copy**
 This project serves as a comprehensive example of API testing best practices including authentication, data validation, and complete workflow testing.
